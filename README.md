@@ -1,5 +1,11 @@
 # Gushwork Project - Premium HDPE Pipes & Coils
 
+**[Live Demo](https://ganpathada.github.io/Gushwork_assignment/)** 
+
+![Project Demo](./assets/images/demo.gif)
+
+
+
 A modern, responsive, and modular landing page for a manufacturing company specializing in HDPE pipes, fittings, and industrial machinery. The project follows a component-based architecture with dynamic data management.
 
 ## 🚀 Key Features
@@ -58,7 +64,7 @@ Gushwork/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GanpatHada/Gushwork_assignment.git
    ```
 
 2. **Serve the project**:
