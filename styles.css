@@ -1451,7 +1451,7 @@ h1 {
   width: 350px;
   height: 350px;
   background-repeat: no-repeat;
-  background-size: 200%;
+  background-size: 400%;
   border-radius: 20px;
   display: none;
   border: 1px solid var(--neutral-800);
